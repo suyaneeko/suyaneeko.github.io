@@ -106,11 +106,11 @@ author:
   avatar           : "assets/Avatar.JPG"
   bio              : "**게임 개발 공부**를 합니다"
   location         : "Seoul, South Korea"
-  email            : 
+  email            : kampy10131@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "kampy10131@gmail.com"
+      # url: "kampy10131@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
