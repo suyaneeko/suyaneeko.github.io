@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Suyaneeko"
-  avatar           : "/assets/Avatar.jpg"
+  avatar           : "assets/Avatar.JPG"
   bio              : "**게임 개발 공부**를 합니다"
   location         : "Seoul, South Korea"
   email            : "kampy10131@gmail.com"
