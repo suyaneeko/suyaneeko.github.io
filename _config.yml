@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Suyaneeko"
-  avatar           : # path of avatar image, e.g. "/assets/Avatar.jpg"
+  avatar           : "/assets/Avatar.jpg"
   bio              : "**게임 개발 공부**를 합니다"
   location         : "Seoul, Korea"
   email            :
