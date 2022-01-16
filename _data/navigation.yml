@@ -5,9 +5,9 @@ main:
   - title: "By Year"
     url: suyaneeko.github.io/docs/_pages/year-archive/
   - title: "Tag"
-    url: /tags/
+    url: suyaneeko.github.io/docs/_pages/tags/
   - title: "Category"
-    url: /categories/
+    url: suyaneeko.github.io/docs/_pages/categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
